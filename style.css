@@ -72,3 +72,7 @@ img{
         scale(1.1) 
         translateY(-1rem)
 }
+
+#gallery .row > * {
+    padding: 0;
+}
